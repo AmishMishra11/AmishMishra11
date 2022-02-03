@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmishMishra11
-- 👀 I’m interested in programming and problem solving
-- 🌱 I’m currently learning web development by using javascript html css etc..
+- 👀 I’m interested in programming and problem solving, designing.
+- 🌱 I’m currently learning web development from Neog22 batch.
 - 📫 How to reach me, just send me a mail at amishmishra11@gmail.com
 
 <!---
