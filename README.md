@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amishmishra11" alt="amishmishra11" /></a> </p>
 
-- 🔭 Explore my standout project [Funime](funime.vercel.app)
+- 🔭 Explore my standout project [Funime](https://github.com/AmishMishra11/funime)
 
 - 👨‍💻 All of my projects are available at [https://amish-portfolio.netlify.app](https://amish-portfolio.netlify.app)
 
