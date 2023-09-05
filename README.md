@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amishmishra11@gmail.com**
 
-- 📄 Know about my experiences [Amish's Resume.pdf.pdf](Amish's Resume.pdf.pdf)
+- 📄 Know about my experiences [Resume Amish.pdf](https://github.com/AmishMishra11/AmishMishra11/files/12519304/Resume.Amish.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
